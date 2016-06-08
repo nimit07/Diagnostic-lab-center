@@ -1,2 +1,2 @@
 # Diagnostic-lab-center
-A virtual management softwore project which helps diagostic labs to manage patients, generate reports &amp; bills, mange commisions of doctors etc.
+A virtual management software project which helps diagnostic labs to manage patients, generate reports & bills, mange commissions of doctors etc.
